@@ -2,7 +2,7 @@
 
 # Autor 
 
-nombre
+Danny Mora
 
 ## Proyecto html css
 
